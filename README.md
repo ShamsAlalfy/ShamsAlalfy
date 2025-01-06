@@ -1,25 +1,34 @@
 # Hi , I'm Shams Yasser Alalfy 👋
 
-```dart
-void introduce()
-{
-  print("Hi, I'm Shams Yasser Alalfy, a CS student @ Zagazig University.");
-  print("Passionate about Problem solving and Mobile Application development.");
+```cpp
+#include <iostream>
+using namespace std;
+
+void introduce() {
+    cout << "Hi, I'm Shams Yasser Alalfy, a CS student @ Zagazig University." << endl;
+    cout << "I'm interested in Front-End development, Mobile Application development , and Cybersecurity." << endl;
+    cout << "I believe in continuous learning and enjoy solving problems creatively." << endl;
 }
-void main()
-{
-  introduce();
+
+int main() {
+    introduce();
+    cout << endl;
+    return 0;
 }
+
 ```
 
 ## Currently Learning
 - Dart
-- Enhancing my knowledge of C++, OOP, Data Structures, and Mobile Applications
+- HTML
+- CSS
+- Java Script
+- Enhancing my knowledge of C++, OOP, Data Structures.
 
 ---
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,dart&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css&perline=3)](https://skillicons.dev)
 
 ---
 
