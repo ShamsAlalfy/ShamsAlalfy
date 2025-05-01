@@ -7,9 +7,9 @@
 - Dart
 - HTML
 - CSS
-- php
-- mysql
-- Enhancing my knowledge of C++, OOP, Data Structures
+- PHP
+- MySQL
+- Enhancing my knowledge of C++, OOP, Data Structures, and Algorithms
 
 ---
 
