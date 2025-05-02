@@ -1,4 +1,4 @@
-# Hi , I'm Shams Yasser Alalfy 👋
+# Hi , I'm Shams Alalfy 👋
 - 2nd year Computer Science Student @ Zagazig Unvisrsity
 - Mentor @ [ICPC Zagzig Community](https://icpczagazig.org/)
 - Backend track member @ [IEEE ZSB CS Chapter](https://ieee.org.eg/zagazig/)
