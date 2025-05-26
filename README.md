@@ -1,6 +1,6 @@
-# Hi
+# Hi, I'm **Shams Alalfy** 
 
-I'm **Shams Alalfy**, a Computer Science student with a strong interest in backend development, and competitive programming. I'm passionate about solving real-world problems through code and contributing to tech communities like ICPC and IEEE.
+A Computer Science student with a strong interest in backend development, and competitive programming. I'm passionate about solving real-world problems through code and contributing to tech communities like ICPC and IEEE.
 
 ## *Currently Learning*
 - Dart
