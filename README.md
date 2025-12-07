@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 -  Student at Faculty of Computers & Information  
 -  Backend Developer (PHP/Laravel & Node.js)
 -  *Co-Lead* @ ZagEng Backend Node.js Track
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=cpp,dart,html,css,php,javascript&perline=3)](https://skillicons.dev)
@@ -31,7 +31,7 @@
 
 ---
 
-## 📈 GitHub Status
+## GitHub Status
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shams-alalfy-bb35a9311" target="_blank">
